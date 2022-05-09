@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duykasama
+- 👋 Hi, I’m Duy
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
 
