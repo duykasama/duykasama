@@ -1,4 +1,5 @@
-<h1 align="center">Hi There 👋, I'm Thanh Duy, a passionate Software Engineering student</h1>
+<h1 align="left">Hi There 👋,</h1>
+<h1 align="left">I'm Thanh Duy, a passionate Software Engineering student</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duykasama&label=Profile%20views&color=0e75b6&style=flat" alt="duykasama" /> </p>
 
