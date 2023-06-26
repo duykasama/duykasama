@@ -1,5 +1,11 @@
-<h1 align="left">Hi There 👋,</h1>
-<h1 align="left">I'm Thanh Duy, a passionate Software Engineering student</h1>
+<p align="center">
+  <img alt="" src="https://media4.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e4706wle3gcy5c3habgvk7k8u6gbfbq1bmoq0b4f0qd&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</p>
+<h1 align="center">Hi There 👋</h1>
+<h1 align="center">I'm Nguyen Thanh Duy - a passionate Software Engineering student</h1>
+<p align="right">
+  <img alt="" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479balalcj1s4hhwvoj9f8s0o48obhwb04cezrjg8i&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duykasama&label=Profile%20views&color=0e75b6&style=flat" alt="duykasama" /> </p>
 
