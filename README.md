@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="https://media4.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e4706wle3gcy5c3habgvk7k8u6gbfbq1bmoq0b4f0qd&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <img width="100%" height="250" alt="" src="https://media4.giphy.com/media/znFOMXuHVkV36qzdbJ/giphy.gif?cid=ecf05e4706wle3gcy5c3habgvk7k8u6gbfbq1bmoq0b4f0qd&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 </p>
 <h1 align="center">Hi There 👋</h1>
 <h1 align="center">I'm Nguyen Thanh Duy - a passionate Software Engineering student</h1>
